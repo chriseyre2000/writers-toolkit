@@ -1,6 +1,6 @@
 # Second Chapter
 
-This is the body of the boo.
+This is the body of the book.
 
 ## Subheading
 
